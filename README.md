@@ -67,3 +67,7 @@ This project is licensed under the [MIT License](LICENSE).
 - Aman Singh(https://github.com/prime-rog)
 
 Feel free to contribute to this project by creating pull requests or reporting issues. 
+
+## Login GUI - 
+![image](https://github.com/prime-rog/Chat_Application/assets/83567814/3938b194-2e9d-4755-9e98-3df29530a057)
+
